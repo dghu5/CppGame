@@ -1,0 +1,28 @@
+# ビルド生成物
+/[Bb]in/
+/[Oo]bj/
+/x64/
+/Win32/
+/Debug/
+/Release/
+
+# Visual Studio ユーザー設定
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# IDE管理ファイル
+*.pdb
+*.ilk
+*.exp
+*.tlog
+*.log
+*.idb
+*.sdf
+*.ipch
+
+# OSのゴミファイル
+.DS_Store
+Thumbs.db
